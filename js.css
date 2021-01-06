@@ -1,0 +1,31 @@
+body{background-color: indigo;margin:auto;}
+.a{
+height:50px;
+width:150px;
+font-size: 18px;
+color:rgb(106,90,205);
+background-color: black;
+border:none;
+padding:5px;
+border-radius: 5px;
+ font-family: Garamond, serif;}
+.qu{
+padding:15px 30px 15px 30px;
+margin:40px auto;
+max-width:500px;
+max-height:300px;
+text-align:center;
+background-color: cyan;
+border-radius: 5px;
+ font-family: Copperplate, Papyrus, fantasy;
+
+}
+h1{
+padding:15px 30px 15px 30px;
+margin:40px auto;
+max-width:500px;
+max-height:300px;
+text-align:center;
+font-family: "Brush Script MT", cursive;
+background-color: yellow;
+border-radius: 5px;}
